@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50883504435",
+    "project_id": "mahavin-shop-303d3",
+    "storage_bucket": "mahavin-shop-303d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50883504435:android:136c19956b63e9f7f57646",
+        "android_client_info": {
+          "package_name": "com.mahavin.mahavinshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYl3q7XoTtrcvygKTlts7VUT2Op3xOztM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
